@@ -15,7 +15,9 @@
 
 ---- 
 
- Meu nome é **Mairon Vilela** | Tenho 37 ano | 📖 Bacharel em Sistemas de Informação pela Faculdade Cotemig.
+ Meu nome é **Mairon Vilela** | Tenho 37 ano | 📖 Bacharel em Sistemas de Informação pela [Faculdade Cotemig](https://www.cotemig.com.br/).
+ 
+ 🚴 Quase casado | Residende na cidade de Belo Horizonte-MG 
  
  Desenvolvedor FullStack Javascript.
 
