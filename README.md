@@ -14,6 +14,7 @@
 </br>
 
 ---- 
+---- 
 
  Meu nome é **Mairon Vilela** | Tenho 37 ano | 📖 Bacharel em Sistemas de Informação pela [Faculdade Cotemig](https://www.cotemig.com.br/).
  
@@ -23,11 +24,11 @@
 
  Participando do Bootcamp Ignite da [Rocketseat](https://rocketseat.com.br/) 
  
- 
- 
+  
  ---- 
+ 
  # Tecnologias e Ferramentas
- <code><img height="30" width="50" src="https://user-images.githubusercontent.com/4884154/123636097-d628fd00-d7f2-11eb-883c-a87cc1157592.png"></code> 
+<code><img height="30" width="50" src="https://user-images.githubusercontent.com/4884154/123636097-d628fd00-d7f2-11eb-883c-a87cc1157592.png"></code> 
 <code><img height="30" width="50" src="https://user-images.githubusercontent.com/4884154/123637280-366c6e80-d7f4-11eb-9875-274511701f08.jpg"></code>
 <code><img height="30" width="50" src="https://user-images.githubusercontent.com/4884154/123637328-45ebb780-d7f4-11eb-8188-b27ee0f361c6.png"></code>
 <code><img height="30" width="50" src="https://user-images.githubusercontent.com/4884154/123637352-4c7a2f00-d7f4-11eb-9ffb-cfa1b7b536ba.png"></code>
@@ -36,7 +37,8 @@
 <code><img height="30" width="50" src="https://user-images.githubusercontent.com/4884154/123638430-8dbf0e80-d7f5-11eb-8209-cf7623985b77.jpg"></code>
 <code><img height="30" width="50" src="https://user-images.githubusercontent.com/4884154/123638516-a4656580-d7f5-11eb-9cc6-17459395832d.jpg"></code>
  
-
+ ---- 
+ ---- 
 
 
 
