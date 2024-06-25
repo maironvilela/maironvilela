@@ -2,13 +2,13 @@
 ### 👋 Ola. Sejam Bem Vindos!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 <a target="_blank" href="https://www.linkedin.com/in/mairon-vilela-3ba1901ba/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.simpleicons.org/linkedin/FFFFFF" />
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.simpleicons.org/linkedin" />
 </a>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5531987205436">
-  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.simpleicons.org/whatsapp/FFFFFF" />
+  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.simpleicons.org/whatsapp" />
 </a>
 <a target="_blank" href="https://www.instagram.com/mairon.vilela/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.simpleicons.org/instagram/FFFFFF" />
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.simpleicons.org/instagram" />
 </a>
 
 </br>
@@ -16,7 +16,7 @@
 ---- 
 ---- 
 
- Meu nome é **Mairon Vilela** | Tenho 37 ano | 📖 Bacharel em Sistemas de Informação pela [Faculdade Cotemig](https://www.cotemig.com.br/).
+ Meu nome é **Mairon Vilela** | Tenho 40 anos | 📖 Bacharel em Sistemas de Informação pela [Faculdade Cotemig](https://www.cotemig.com.br/).
  
  🚴 Casado | Residente na cidade de Belo Horizonte-MG 
  
